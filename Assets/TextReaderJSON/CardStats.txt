@@ -1,0 +1,7 @@
+{
+"title":"teste",
+"cost":1,
+"atk":2,
+"hp":3,
+"description":"teste"
+}
